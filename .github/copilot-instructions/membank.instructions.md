@@ -1,0 +1,1 @@
+../../ai-env/promts/membank.md
